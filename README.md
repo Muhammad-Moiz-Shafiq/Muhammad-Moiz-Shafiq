@@ -6,15 +6,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=8FB8B0&center=true&vCenter=true&width=750&lines=Building+AI+systems+that+solve+real+problems;Mitacs+Globalink+Research+Intern+%40+Algoma+University;Backend+Engineer+%40+CloserCoach;Fine-tuning+transformer+models+for+recommender+systems)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/mmoiz.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mmoiz.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-moiz-91a8bb28a/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0194fb480d609628f1?mp_source=share)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0194fb480d609628f1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.moiz.cse@gmail.com)
 
 </div>
 
 **About me**
 - BS Computer Science, NUST (SEECS), Islamabad — graduating 2027
-- Mitacs Globalink Research Intern @ Algoma University, Canada — building an emotion-aware recommender system, fine-tuning transformer models on user review/interaction data
+- Mitacs Globalink Research Intern @ Algoma University, Canada (completed) — built an emotion-aware recommender system, first-authoring a paper now under review
 - Backend Engineer @ CloserCoach (US mobile app startup) — also handle team-lead duties for the engineering team
 - Previously: AI Engineer @ Labsbit.ai (Estonia, LangGraph agentic systems) · Software Engineer @ Veda AI (UK)
 - Ranked 2nd nationally in NUST's undergraduate entrance exam · PEEF merit-cum-need scholar
@@ -54,13 +55,17 @@
 
 **Featured projects**
 
+**Autonomous Repository Investigator** — Independent Research Study
+A pre-registered empirical study comparing curated tools vs. an open code-execution sandbox for LLM agents investigating software repository history (commits, PRs, CI runs, issues). Tested 6 models across 4 providers on 5 real questions over 3 open-source repos, with blind dual-judge grading against hand-computed ground truth. Curated tools produced a consistent quality advantage, holding under both judges and across every model tested.
+→ [Live Demo](https://repo-investigator-ui.vercel.app/) · [Backend repo](https://github.com/Muhammad-Moiz-Shafiq/repo-investigator) · [Frontend repo](https://github.com/Muhammad-Moiz-Shafiq/repo-investigator-ui)
+
 **emotion-aware-RS**
-Fine-tuning transformer models to bring emotional signal from user reviews into recommendation pipelines. Current Mitacs Globalink research project.
+Fine-tuned transformer models to bring emotional signal from user reviews into recommendation pipelines. Built during a Mitacs Globalink research internship; first-authored paper now under review.
 → [View repo](#)
 
 **IndustryLens**
 Automated resume screening system; NLP + supervised ML classify resumes into 18 tech roles at 96.3% accuracy; used GenAI (Llama-3.1) to synthesize training data and fix a 5.7:1 class imbalance; FastAPI + React, deployed on Vercel.
-→ [View repo](#)
+→ [Live App](https://v0-industry-lens-frontend-prompt.vercel.app/)
 
 **Tabeeb**
 Telemedicine platform (Flutter) with separate doctor and patient flows: patients search and book doctors, live chat and video consultations via Agora, medical history uploads, digital prescriptions. 6th-semester Software Engineering group project — led the team and built most of the engineering myself.
@@ -87,7 +92,7 @@ Campus carpooling platform for NUST students — real-time ride matching. Group 
 → [Live App](https://ridetogether.vercel.app/) · [View repo](https://github.com/MuhammadHaseebUlHaqq) *(swap in the actual repo link once you have it — placeholder is his profile for now)*
 
 **EdTech Platform (NASCON Hackathon — 🥈 Runner-up)**
-Coursera-style platform built with a team of 3 in 24-48 hours: instructors create and list paid courses, students enroll and pay via Stripe, live lecture transcription, and in-course chat. Placed runner-up out of the competing teams.
+Coursera-style platform built with a team of 3 in 8 hours: instructors create and list paid courses, students enroll and pay via Stripe, live lecture transcription, and in-course chat. Placed runner-up out of the competing teams.
 → [Live App](https://nascon-final.vercel.app/) 
 
 **DLDmadeEz**
@@ -100,9 +105,9 @@ Digital logic gate simulator (Java, OOP) from 2nd semester — build and visuali
 
 | Role | Organization | Timeline |
 |---|---|---|
-| Research Intern | Mitacs / Algoma University | Jun 2026 – Present |
+| Research Intern | Mitacs / Algoma University | Jun 2026 – Aug 2026 |
 | Backend Engineer | CloserCoach | Feb 2026 – Present |
-| AI Engineer | Labsbit.ai | Nov 2025 – Mar 2026 |
+| AI Engineer | Labsbit.ai | Nov 2025 – Feb 2026 |
 | Software Engineer | Veda AI | Apr 2025 – Aug 2025 |
 
 <div align="center">
